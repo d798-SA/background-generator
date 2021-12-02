@@ -36,6 +36,7 @@ picker[1].value = cookie1;
 
 }
   
+  // just mess around 
 
 picker[0].addEventListener('input', Realchange);
 picker[1].addEventListener('input', Realchange);
