@@ -1,0 +1,23 @@
+body{
+ 
+ text-align: center;
+ 
+
+background: linear-gradient(to right, rgb(223, 190, 190) , rgb(90, 97, 196));
+
+}          
+
+h1{
+text-shadow: -1px 0 violet, 0 1px cornflowerblue, 1px 0 navy, 0 -1px white;
+font-family: 'Yuji Syuku', serif;
+letter-spacing: .2em;
+}
+.print{
+   background: #80808082;
+    border-radius: 15px;
+    padding: 5px;
+
+}
+
+
+
